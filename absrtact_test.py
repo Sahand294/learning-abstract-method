@@ -21,3 +21,4 @@ class Circle(Shape):
         pass
 c = Circle(10)
 print(c.area())
+#hi loki1391s
